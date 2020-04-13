@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+#main {
+  background-color: #d8d8d8;
+  border-radius: 7px;
+}
+#main header {
+  text-align: center;
+}
+#main header #title {
+  padding-top: 40px;
+  margin: 0;
+}
+#main main {
+  width: 95%;
+  margin: 0 auto;
+}
+#main main #img-div {
+  text-align: center;
+  margin: 0;
+  background-color: white;
+  padding: 10px;
+  border-radius: 3px;
+}
+#main main #img-div #image {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+}
+#main main #tribute-info {
+  text-align: center;
+  margin: 50px 0;
+}
+#main main ul {
+  padding-left: 40px;
+  list-style-type: disc;
+  margin: 0 auto 50px;
+  max-width: 550px;
+}
+#main main ul li {
+  margin-bottom: 20px;
+}
+#main main #bor-life {
+  max-width: 550px;
+  margin: 0 auto;
+}
+#main footer {
+  text-align: center;
+  margin: 50px auto 0;
+  padding-bottom: 30px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/*# sourceMappingURL=styles.css.map */
